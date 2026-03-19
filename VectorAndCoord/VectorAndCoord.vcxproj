@@ -123,7 +123,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Coord.cpp" />
     <ClCompile Include="Point.cpp" />
     <ClCompile Include="VectorAndCoord.cpp" />
   </ItemGroup>
